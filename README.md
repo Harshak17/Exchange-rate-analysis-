@@ -1,7 +1,7 @@
 # Exchange rate analysis project
 
 ## Project overview 
-This project explores the relationship between different exchanges rates and stock prices. The datasets have been analyses through time series plots and correlation equations.
+This project explores the relationship between different exchanges rates and stock prices. The datasets have been analysed through time series plots and correlation equations.
 
 ## Files
 - **`Statistical Data/`**: Folder containing Excel files with historical data.
