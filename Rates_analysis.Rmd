@@ -17,7 +17,7 @@ library(ggplot2)
 ```
 
 ```{r message=FALSE, warning=FALSE}
-#creating variables
+#creating dataframes
 USD_GBP <- read_csv('USD_GBP Historical Data monthly.CSV')
 USD_AUD <- read_csv('USD_AUD Historical Data monthly.CSV')
 USD_JPY <- read_csv('USD_JPY Historical Data monthly.CSV')
